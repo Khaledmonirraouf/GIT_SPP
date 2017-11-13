@@ -27,7 +27,7 @@ namespace SPP_Automation_Project
 
 
             Thread.Sleep(20);
-            Thread.Sleep(29);
+            
 
 
             //BasicReport b = new BasicReport();
