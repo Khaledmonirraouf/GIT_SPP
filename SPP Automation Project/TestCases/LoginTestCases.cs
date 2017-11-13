@@ -27,8 +27,8 @@ namespace SPP_Automation_Project
 
 
             Thread.Sleep(20);
-            
 
+            Thread.Sleep(20);
 
             //BasicReport b = new BasicReport();
             //var sss=b.extent.StartTest("DemoreportPass");
